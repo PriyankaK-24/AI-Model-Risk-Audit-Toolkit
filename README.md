@@ -8,6 +8,11 @@ Organizations increasingly rely on AI and machine learning for business and fina
 
 This project demonstrates a lightweight assessment workflow that brings together model validation, statistical drift screening, AI governance checks, and audit-control testing in one interactive dashboard.
 
+## Dashboard Preview
+
+![AI Model Risk Dashboard](screenshots/dashboard.png)
+
+
 ## Key Features
 
 - **Model Validation:** Evaluate a financial revenue prediction model using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R².
