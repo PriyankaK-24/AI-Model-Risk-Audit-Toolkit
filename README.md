@@ -10,7 +10,7 @@ This project demonstrates a lightweight assessment workflow that brings together
 
 ## Dashboard Preview
 
-![AI Model Risk Dashboard](screenshots/dashboard.png)
+![AI Model Risk Dashboard](dashboard.png)
 
 
 ## Key Features
